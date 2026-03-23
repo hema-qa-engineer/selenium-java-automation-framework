@@ -1,5 +1,4 @@
-# Selenium Java Automation Framework
-# Selenium Automation - Banking Application
+# Selenium Java Automation Framework-Banking Application
 
 This project is a Selenium automation framework built using Java for a demo banking application (ParaBank).
 
